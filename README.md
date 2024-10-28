@@ -1,2 +1,2 @@
-# synology-stencils-for-visio
-[PUBLIC] repository dedicated to synology stencils for visio
+# visio-stencils-for-synology
+[PUBLIC] repository dedicated to visio stencils for synology devices
